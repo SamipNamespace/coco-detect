@@ -1,0 +1,7 @@
+.ipynb_checkpoints/*
+__pycache__/*
+annotations/*
+np_label/*
+test1/*
+train2017.zip
+two_objects/*

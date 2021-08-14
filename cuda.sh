@@ -28,3 +28,5 @@ sudo apt-get install -y --no-install-recommends \
     libnvinfer-dev=7.1.3-1+cuda11.0 \
     libnvinfer-plugin7=7.1.3-1+cuda11.0 \
     libnvinfer-plugin-dev=7.1.3-1+cuda11.0
+
+
